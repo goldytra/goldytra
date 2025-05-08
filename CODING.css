@@ -1,0 +1,39 @@
+*,
+html {
+    margin: 0;
+    padding: 0;
+}
+
+
+
+.container-navbar {
+    background-color: hsl(0, 0%, 99%);
+    width: 100%;
+    height: 100px;
+}
+
+
+.ul-navbar {
+display: flex;
+height: 100px;
+justify-content: center;
+align-items: center;
+}
+
+
+
+
+
+.conteiner-content {
+    background-color: hsl(0, 100%, 52%);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+.img-content {
+    width: 30%;
+    height: 30%;
+}
